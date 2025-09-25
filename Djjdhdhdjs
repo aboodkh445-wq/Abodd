@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support Supercell - متابعة</title>
+<style>
+  body { font-family: "Tahoma", "Arial", sans-serif; direction: rtl; background:#121212; margin:0; padding:24px; color:#e5e5e5; }
+  .container { max-width: 720px; margin: 0 auto; }
+  .card { background:#1e1e1e; border-radius: 6px; margin-bottom: 22px; padding: 20px 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+  h1 { margin: 0 0 6px 0; font-size: 18px; color: #4da3ff; }
+  .small { font-size: 11px; color: #999; margin-bottom: 10px; }
+  p { font-size: 13px; line-height: 1.7; margin: 10px 0; }
+  .highlight { border-right: 4px solid #FFD700; background: #2a2a1d; padding: 8px 12px; margin: 12px 0; border-radius: 4px; font-size: 13px; color:#f3e7a1; }
+  .sign { margin-top: 16px; font-weight: 600; font-size: 13px; }
+  .footer { font-size: 11px; color:#777; margin-top:30px; border-top:1px solid #333; padding-top:10px; }
+  .divider { font-size: 11px; color:#666; margin: 20px 0; text-align:center; }
+</style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="card">
+      <h1>Support Supercell</h1>
+      <div class="small">أمن الحسابات</div>
+
+      <p><strong>مرحباً عزيزي اللاعب مرة أخرى،</strong></p>
+
+      <p>نشكرك على صبرك وتفهمك.<br>
+      نود تذكيرك بالموعد الذي تم تحديده بناء على نظامنا الخاص يوم <strong>4/5 أكتوبر</strong> سيتم التواصل معك عبر هذا البريد الإلكتروني الخاص بأمن حسابات اللاعبين.<br>
+      يرجى اتباع الخطوات ولا تقوم بإرسال أي معلومات للدخول لقريتك من خلال موقع أو جهاز جديد.</p>
+
+      <div class="highlight">
+        <p>🔹 نود تذكيرك أن هذه الخطوة تحصل كل موسم لحظر الحسابات التي تخالف قوانين اللعب والحسابات التي نشك أنه تمت اختراقها أو سرقتها.</p>
+      </div>
+
+      <p><strong>موعد نزول التحديث الكبير:</strong> يوم <strong>2 أكتوبر</strong>.</p>
+
+      <p>وشكراً على لعبك لعبتنا. سيتم التواصل معك مرة أخرى.<br>
+      نتمنى لك نهاراً سعيداً 🌸</p>
+
+      <p class="sign">مع تحياتنا،<br>فريق دعم Supercell</p>
+
+      <div class="divider">### Do not reply below this line ###</div>
+
+      <div class="footer">
+        Supercell<br>
+        September 25, 2025, 09:30 +0000
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
